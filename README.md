@@ -63,5 +63,3 @@ Contributions are welcome! To contribute:
 - Background images and icons from [Unsplash](https://unsplash.com/) and [Font Awesome](https://fontawesome.com/)
 
 ```
-
-
